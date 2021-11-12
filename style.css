@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #e9d5ce;
+}
+
+#container{
+    margin: auto;
+    width: fit-content;
+}
+
+#formContainer {
+    display: inline;
+    width: fit-content;
+    margin-top: 15%;
+    padding: 30px;
+    border: 2px solid #f76a59;
+    border-radius: 8px;
+    float: left;
+    background-color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    background-color: white;
+}
+
+.input {
+    display: block;
+    padding: 13px;
+    margin: 8px;
+    font-size: 20px;
+    border: 1px solid #dbdbdb;
+    border-radius: 8px;
+    background-color: white;
+}
+
+.input-button {
+    margin: auto;
+    width: 100%;
+    color: white;
+    background-color: #f76a59;
+}
+
+h2 {
+    background-color: white;
+}
+
+#picture {
+    display: inline;
+    margin-top: -50px;
+    margin-left: 0;
+    width: 700px;
+}
+
+/* #list{
+    background-color: white;
+} */
+
+.listItem{
+    background-color: white;
+    list-style-position:inside;
+    font-size: 25px;
+}
+
+.listItem-li1 {
+    list-style-image: url(./assets/beefIcon.png);
+}
+
+.listItem-li2 {
+    list-style-image: url(./assets/beerIcon.png);
+}
+
+.listItem-li3 {
+    list-style-image: url(./assets/waterIcon.png)
+}
