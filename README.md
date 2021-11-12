@@ -1,3 +1,3 @@
 # churrascometroJS
-This says how much stuff you'll need for a barbecue
+Projeto ProgBr
 https://emanuelvelozo.github.io/churrascometroJS/
